@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chotapandit
+- 👋 Hi, I’m @himanshu
 - 👀 I’m interested in tech.
 - 🌱 I’m currently studying CSSE.
 
